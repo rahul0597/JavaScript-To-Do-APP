@@ -1,0 +1,32 @@
+.form-control
+{
+	width: 500px;
+	
+}
+.form-group
+{
+	display: flex;
+	justify-content: center;
+	margin: 50px;
+}
+button
+{
+	margin-left: 10px;
+}
+.items
+{
+	
+	display: flex;
+	
+	justify-content: center;
+}
+.item
+{
+	background-color: cyan;
+	padding: 20px;
+	width: 500px;
+}
+.b1
+{
+	height: 65px;
+}
